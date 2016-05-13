@@ -16,3 +16,9 @@ img {
   display: block;
   margin: 0 auto;
 }
+.btn {
+  display: block;
+  float: right;
+  background: #234567;
+  margin: 30px 0;
+}
